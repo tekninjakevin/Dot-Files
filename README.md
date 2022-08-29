@@ -14,7 +14,7 @@
 
 # Screen Shots
 
-![Preview](Preview.png)
+![Preview](Preview.jpg)
 
 
 ## Programs whose configs can be found here and some of what i configured
