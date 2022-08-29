@@ -1,0 +1,12 @@
+#!/bin/sh
+cp ~/.aliasrc ~/Documents/dots/
+cp ~/.zshrc ~/Documents/dots
+cp ~/.profile ~/Documents/dots/
+cp ~/.exportsrc ~/Documents/dots/
+cp ~/.Xresources ~/Documents/dots
+
+
+cp -r ~/.i3	~/Documents/dots/
+cp -r ~/.config/ranger ~/Documents/dots/.config
+cp -r ~/.config/nvim ~/Documents/dots/.config
+

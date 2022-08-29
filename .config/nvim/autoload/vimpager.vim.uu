@@ -1,0 +1,2 @@
+autoload_vimpager_vim() {
+	(cat <<'EOF') | do_uudecode > autoload/vimpager.vim

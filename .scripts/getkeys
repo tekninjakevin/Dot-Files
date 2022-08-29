@@ -1,0 +1,4 @@
+#!/bin/sh
+less ~/.getkeys/"$1" 2>/dev/null && exit
+echo "Run command with one of the following arguments for info about that program:"
+ls ~/.getkeys
