@@ -1,0 +1,15 @@
+# setting recolor-keep true will keep any color your pdf has.
+# if it is false, it'll just be black and white
+set recolor-keephue "false"
+
+set selection-clipboard "clipboard"
+
+# keybindings
+map [fullscreen] a adjust_window best-fit
+map [fullscreen] s adjust_window width
+map [fullscreen] f follow
+map [fullscreen] <Tab> toggle_index
+map [fullscreen] j scroll down
+map [fullscreen] k scroll up
+map [fullscreen] h navigate previous
+map [fullscreen] l navigate next

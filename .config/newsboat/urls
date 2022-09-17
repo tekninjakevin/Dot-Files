@@ -1,0 +1,119 @@
+
+ # news feeds
+#http://rss.cnn.com/rss/cnn_topstories.rss news "~CNN Top stories"
+#http://feeds.wired.com/wired/index news "~ Wired Main Index"
+#https://www.wired.com/feed/rss "~Wired Top Stories"
+http://vox.com/rss/world/index.xml "~Vox News"
+#http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml news
+#https://www.wired.com/feed/category/security/latest/rss news "~Wired Security News"
+http://nautil.us/rss/all news
+#http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/rss.xml
+#https://www.sciencenews.org/feeds/headlines.rss news
+#https://www.ksl.com/rss/news
+#http://rss.slashdot.org/Slashdot/slashdot news
+http://feeds.sciencedaily.com/sciencedaily
+#https://feeds.feedburner.com/InterestingThingOfTheDay news
+#http://www.npr.org/rss/rss.php?id=1001
+#https://news.ycombinator.com/rss
+#https://feeds.feedburner.com/techcrunch news tech
+#
+# Vim
+#https://medium.com/feed/usevim misc vim "~Vim Blog"
+
+#http://vimcasts.org/feeds/ogg misc vim "~VimCast Blog"
+# Software
+    https://hacks.mozilla.org/feed/ web
+    http://blog.sanctum.geek.nz/feed/ linux tmux "~Geek Senctum"
+    http://thechangelog.com/rss misc "~Changlong Software News"
+    #http://createdigitalmotion.com/feed/ misc
+    http://www.debian-administration.org/atom.xml linux debian
+https://www.archlinux.org/feeds/news
+http://feeds2.feedburner.com/Command-line-fu cli "~Command Line Fu"
+#http://kbeezie.com/feed/ nginx
+#personal feeds
+   # http://feeds.feedburner.com/abduzeedo misc "~ABZ"
+    http://feeds.feedburner.com/ScottHanselman misc
+    http://dtrace.org/blogs/brendan/feed/ dtrace
+    http://dougmccune.com/blog/feed/ misc
+    http://www.jonolick.com/2/feed programming
+    http://sethgodin.typepad.com/seths_blog/atom.xml misc
+    http://lukesmith.xyz/rss.xml
+#Games
+    http://gamearchitect.net/feed/ programming
+    http://gamedevcoder.wordpress.com/feed/ programming
+    http://games.greggman.com/game/feed/ programming
+    http://gamesfromwithin.com/feed programming
+    http://feeds.feedburner.com/Ontwik misc
+#Music
+ #   https://freemusicarchive.org/recent.atom
+#Funny Stuff
+    https://xkcd.com/atom.xml "~Funny Stuff"
+    http://ha-ha-ha.tumblr.com/rss misc
+https://newsboat.org/news.atom
+ttp://www.ghacks.net/feed/
+http://www.sltrib.com/rss/feed/?sec=/News/Utah/&level=1
+http://blog.linuxmint.com/?feed=rss2
+https://notrelated.libsyn.com/rss
+http://feeds.feedburner.com/elise/simplyrecipes
+https://feeds.feedburner.com/Mashable
+https://feeds.feedburner.com/DumbLittleMan
+https://www.jns.org/feed/
+http://feeds.feedburner.com/FrontlineEditorsNotes
+http://www.pbs.org/wgbh/nova/rss/nova.xml
+https://www.splcenter.org/hatewatch
+http://www.nba.com/jazz/rss.xml
+http://www.npr.org/rss/rss.php?id=1045
+http://feeds.feedburner.com/HowToGeek
+http://feeds.feedburner.com/QuickOnlineTips
+http://feeds.feedburner.com/PersistentInfo
+https://lifehacker.com/rss
+http://feeds.feedburner.com/labnol
+https://www.reddit.com/r/linux/.rss
+https://www.theguardian.com/uk/rss
+https://www.sadanduseless.com/feed/
+https://www.linuxjournal.com/node/feed
+http://www.jokesoftheday.net/jokes-feed/
+https://itsfoss.com/feed/
+https://www.linux.com/feed/
+https://www.cyberciti.biz/feed/
+https://www.fmylife.com/rss?x=1
+http://www.jokesoftheday.net/jokes-feed/
+https://www.portablepress.com/blog/feed/
+# Facts
+
+    https://weird-facts.org/rss
+    https://www.thefactsite.com/feed/
+    https://www.thefactinfact.com/feeds/posts/default
+    https://crazyfacts.com/feed/
+    http://feeds.feedburner.com/labnol
+#Comics
+    https://www.comicsbeat.com/feed/
+    https://www.dccomics.com/feed Comics "~DC Comic News"
+
+https://techhut.tv/rss/ "Techhut"
+https://lukesmith.xyz/rss.xml "Luke Smith"
+https://notrelated.xyz/rss "Not Related"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Luke Smith (YouTube)"
+https://landchad.net/rss.xml "Landchad"
+https://based.cooking/rss.xml "Based Cooking"
+https://artixlinux.org/feed.php "Artix Linux"
+https://www.archlinux.org/feeds/news/ "Arch Linux"
+https://switchedtolinux.com/rss "Switched to Linux"
+https://www.reddit.com/r/linux.rss "Reddit linux"
+https://www.reddit.com/r/commandline.rss "Reddit Commandline"
+https://www.reddit.com/r/distrotube.rss "Reddit Distrotube"
+https://www.reddit.com/r/emacs.rss "Reddit Emacs"
+https://www.gamingonlinux.com/article_rss.php "Gaming on linux"
+https://hackaday.com/blog/feed/ "Hackaday"
+https://opensource.com/feed "Opensource"
+https://linux.softpedia.com/backend.xml "Softpedia Linux"
+https://itsfoss.com/feed/ "ItsFoss"
+https://www.zdnet.com/topic/linux/rss.xml "Zdnet Linux"
+https://www.phoronix.com/rss.php "Phoronix"
+http://feeds.feedburner.com/d0od "Omg Ubuntu"
+https://www.computerworld.com/index.rss "Computerworld"
+https://www.networkworld.com/category/linux/index.rss "Networkworld Linux"
+https://www.techrepublic.com/rssfeeds/topic/open-source/ "Techrepublic opensource"
+https://betanews.com/feed "Betanews Linux"
+http://lxer.com/module/newswire/headlines.rss "Lxer"
+https://distrowatch.com/news/dwd.xml "Distrowatch"
